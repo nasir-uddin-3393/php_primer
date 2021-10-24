@@ -23,6 +23,10 @@
        echo '<h1>My Name Is: '.$name.'</h1>';
        echo '<h1>My Age Is: '.$age.'</h1>';
     ?>
+    <button type="bitton" class="btn btn-dark">CLICK ME!</button>
+    <button type="bitton" class="btn btn-primary">CLICK ME!</button>
+    <button type="bitton" class="btn btn-success">CLICK ME!</button>
+    <a href="https://www.heroku.com" class="btn btn-danger">Heroku.com</a>
 <?php
 require 'includes/footer.php'
 ?>
